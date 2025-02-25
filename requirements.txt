@@ -1,0 +1,6 @@
+pymysql
+yfinance
+requests
+pandas
+openpyxl
+pyarrow
